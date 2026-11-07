@@ -1,10 +1,20 @@
-# Review Lens — AI-Powered Customer Review Intelligence Platform
+# Review Lens - AI-Powered Customer Review Intelligence Platform
 
+## Team Project - Microsoft Innovate Hackathon
+
+**Original Repo:** [naitikgoel19/review-lens](https://github.com/naitikgoel19/review-lens)
+
+**My Contribution:** Frontend Lead (React 18) - Co-built frontend architecture with Naitik Goel. Developed reusable UI components and integrated AI review analysis APIs.
+
+**Collaborated on:** React 18, Tailwind CSS, Frontend-Backend Integration
+
+---
 > **"Turn customer reviews into product decisions."**  
 > *Read less. Understand more. Fix what matters.*  
 > **Team:** InsightX | **Built for:** Microsoft Innovate 2026
 
 ---
+
 
 ## 1. Project Overview
 
